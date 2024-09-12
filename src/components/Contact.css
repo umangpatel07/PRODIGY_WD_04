@@ -1,0 +1,14 @@
+.contact {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .contact ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .contact ul li {
+    margin: 5px 0;
+  }
+  

@@ -1,0 +1,15 @@
+.projects {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .project-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .project-item {
+    margin-bottom: 35px;
+  }
+  
